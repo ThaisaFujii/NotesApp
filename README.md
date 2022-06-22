@@ -1,2 +1,2 @@
 # NotesApp
- Creating an notes app with Swiftui
+ Creating a notes app with Swift and Swiftui concepts.
